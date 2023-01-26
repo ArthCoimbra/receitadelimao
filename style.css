@@ -1,0 +1,46 @@
+
+
+:root {
+    background-color: darkgreen;
+    color: aliceblue;
+    
+}
+
+.mousse {
+    font-style: oblique;
+    margin-left: 500px;
+}
+
+.ingredientes {
+    margin-left: 250px;
+    font-size: 20px;
+    
+}
+
+.modo {
+    margin-left: 250px;
+    font-size: 20px;
+    margin-top: 150px;
+}
+
+.lista {
+    display: flex;
+    margin-left: 50px;
+    font-size: 15px;
+    
+}
+
+.imagem {
+    width: 500px;
+    height: 300px;
+    border-radius: 5%;
+    margin-left: 500px;
+}
+
+.segundaimagem {
+    width: 500px;
+    height: 300px;
+    border-radius: 5%;
+    margin-left: 105px;
+    
+}
